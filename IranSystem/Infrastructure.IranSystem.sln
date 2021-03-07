@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.IranSystem", "Infrastructure.IranSystem.csproj", "{3B97BBC6-F5BE-4880-BAA4-64D8B53DD372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.IranSystem.UnitTest", "..\Infrastructure.IranSystem.UnitTest\Infrastructure.IranSystem.UnitTest.csproj", "{5F93CFA6-F637-439C-8465-433660371502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B97BBC6-F5BE-4880-BAA4-64D8B53DD372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B97BBC6-F5BE-4880-BAA4-64D8B53DD372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B97BBC6-F5BE-4880-BAA4-64D8B53DD372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B97BBC6-F5BE-4880-BAA4-64D8B53DD372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F93CFA6-F637-439C-8465-433660371502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F93CFA6-F637-439C-8465-433660371502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F93CFA6-F637-439C-8465-433660371502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F93CFA6-F637-439C-8465-433660371502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C46DED-3394-4AAD-9CB5-60CDCAD9FA2F}
+	EndGlobalSection
+EndGlobal
